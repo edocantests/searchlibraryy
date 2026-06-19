@@ -1,1 +1,2 @@
-# searchlibraryy
+streamlit>=1.33
+requests>=2.31
